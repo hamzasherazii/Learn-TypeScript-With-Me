@@ -13,4 +13,4 @@ function addNumbers(a, b) {
     }
 }
 
-button.addEventListener('click', () => addNumbers(firstInput.value, secondInput.value)); 
+button.addEventListener('click', () => addNumbers(firstInput.value, secondInput.value));
