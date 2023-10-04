@@ -7,3 +7,10 @@ let func2 = () => {
 }
 
 func2();
+
+let func3 = ():number => {
+    return 2 + 2;
+}
+
+let total = func3();
+console.log(total);
